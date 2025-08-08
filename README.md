@@ -9,7 +9,7 @@
 ## Dataset
 - `ecommerce_sales_2025.csv` – Contains order details, customers, products, prices, and payment methods.  
 
-## 📌 What I Did
+## What I Did
 - Created and loaded the `ecommerce_sales` table  
 - Applied SQL queries using SELECT, WHERE, GROUP BY, ORDER BY  
 - Used aggregates (SUM, AVG), subqueries, joins, views, and indexes for analysis  
